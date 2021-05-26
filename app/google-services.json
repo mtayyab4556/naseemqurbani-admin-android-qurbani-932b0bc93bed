@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "527359831128",
+    "firebase_url": "https://qurbaniapp-24a10.firebaseio.com",
+    "project_id": "qurbaniapp-24a10",
+    "storage_bucket": "qurbaniapp-24a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527359831128:android:13c84aff4736754d",
+        "android_client_info": {
+          "package_name": "com.example.qurbaninotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527359831128-rb8af0kift24agk29f2enmi7ofk2ogad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qurbaninotifications",
+            "certificate_hash": "3441df664517d3fe5afba8b3a237730c0f642915"
+          }
+        },
+        {
+          "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKG9XPvLQAHdl3Tcsn95xl1ESPQBPLr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527359831128:android:911bc048f07867fc",
+        "android_client_info": {
+          "package_name": "com.infinityai.qurbani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527359831128-u27lrlocq1tpk902ri5mj2k1u3ji4e0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinityai.qurbani",
+            "certificate_hash": "fbbb5b5d764e1a180c48fa71889ebbefaab3cad9"
+          }
+        },
+        {
+          "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKG9XPvLQAHdl3Tcsn95xl1ESPQBPLr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527359831128:android:f386b70b9d668884",
+        "android_client_info": {
+          "package_name": "com.plan9.qurbaniapps.qurbani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527359831128-tj562napkebm6v7mb6c0h3b1mk9bjo8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plan9.qurbaniapps.qurbani",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "527359831128-4np595k7arfqqjeh3g565hohtog6kh5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plan9.qurbaniapps.qurbani",
+            "certificate_hash": "fbbb5b5d764e1a180c48fa71889ebbefaab3cad9"
+          }
+        },
+        {
+          "client_id": "527359831128-jbomoe9nnneqa8vp8nioacbkf1v4tk7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plan9.qurbaniapps.qurbani",
+            "certificate_hash": "b07a042fdd386bab3984fface625379e893554c6"
+          }
+        },
+        {
+          "client_id": "527359831128-ng8mqm5n4mb5ust9urag0a4fnqr22s1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plan9.qurbaniapps.qurbani",
+            "certificate_hash": "653eb542c647983346ff862f97edb45f3556fb9b"
+          }
+        },
+        {
+          "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKG9XPvLQAHdl3Tcsn95xl1ESPQBPLr1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527359831128-a1dnp2jsguisjk5oq4d6l5k3h1kcfkjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8143640561729517~3275788505"
+    }
+  ],
+  "configuration_version": "1"
+}
